@@ -1,0 +1,4 @@
+interface EmergencyInfo {
+
+    fun getDescription()
+}
